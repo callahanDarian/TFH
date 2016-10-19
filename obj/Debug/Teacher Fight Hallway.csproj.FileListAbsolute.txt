@@ -1,0 +1,24 @@
+C:\Users\gn129659\Desktop\C# Programs\_Final\Teacher Fight Hallway\Teacher Fight Hallway\bin\Debug\Teacher Fight Hallway.exe.config
+C:\Users\gn129659\Desktop\C# Programs\_Final\Teacher Fight Hallway\Teacher Fight Hallway\bin\Debug\Teacher Fight Hallway.exe
+C:\Users\gn129659\Desktop\C# Programs\_Final\Teacher Fight Hallway\Teacher Fight Hallway\bin\Debug\Teacher Fight Hallway.pdb
+C:\Users\gn129659\Desktop\C# Programs\_Final\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher Fight Hallway.csprojResolveAssemblyReference.cache
+C:\Users\gn129659\Desktop\C# Programs\_Final\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher_Fight_Hallway.Properties.Resources.resources
+C:\Users\gn129659\Desktop\C# Programs\_Final\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher Fight Hallway.csproj.GenerateResource.Cache
+C:\Users\gn129659\Desktop\C# Programs\_Final\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher Fight Hallway.exe
+C:\Users\gn129659\Desktop\C# Programs\_Final\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher Fight Hallway.pdb
+C:\Users\gn129659\Desktop\C# Programs\_Final\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher_Fight_Hallway.mainMenu.resources
+C:\Users\gn129659\Desktop\C# Programs\_Final\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher_Fight_Hallway.soundtrack.resources
+C:\Users\gn129659\Desktop\C# Programs\_Final\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher_Fight_Hallway.selectFighter.resources
+C:\Users\gn129659\Desktop\C# Programs\_Final\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher_Fight_Hallway.fightStage.resources
+Q:\_eDesk\Brosius\Programming\TeacherFigher\Teacher Fight Hallway\Teacher Fight Hallway\bin\Debug\Teacher Fight Hallway.exe.config
+Q:\_eDesk\Brosius\Programming\TeacherFigher\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher Fight Hallway.exe
+Q:\_eDesk\Brosius\Programming\TeacherFigher\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher Fight Hallway.pdb
+Q:\_eDesk\Brosius\Programming\TeacherFigher\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher Fight Hallway.csprojResolveAssemblyReference.cache
+Q:\_eDesk\Brosius\Programming\TeacherFigher\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher_Fight_Hallway.mainMenu.resources
+Q:\_eDesk\Brosius\Programming\TeacherFigher\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher_Fight_Hallway.soundtrack.resources
+Q:\_eDesk\Brosius\Programming\TeacherFigher\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher_Fight_Hallway.selectFighter.resources
+Q:\_eDesk\Brosius\Programming\TeacherFigher\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher_Fight_Hallway.fightStage.resources
+Q:\_eDesk\Brosius\Programming\TeacherFigher\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher_Fight_Hallway.Properties.Resources.resources
+Q:\_eDesk\Brosius\Programming\TeacherFigher\Teacher Fight Hallway\Teacher Fight Hallway\obj\Debug\Teacher Fight Hallway.csproj.GenerateResource.Cache
+Q:\_eDesk\Brosius\Programming\TeacherFigher\Teacher Fight Hallway\Teacher Fight Hallway\bin\Debug\Teacher Fight Hallway.exe
+Q:\_eDesk\Brosius\Programming\TeacherFigher\Teacher Fight Hallway\Teacher Fight Hallway\bin\Debug\Teacher Fight Hallway.pdb

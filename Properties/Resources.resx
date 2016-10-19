@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Brosius-B-Walk-P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brosius-B-Walk-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR-A-Stand-P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-A-Stand-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusWalkBackwardAP1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BrosiusWalkBackwardAP1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR-B-Stand-P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-B-Stand-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERRORBFace P2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERRORBFace P2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR-A-Stand-P21" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-A-Stand-P2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERRORBFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERRORBFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Background" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Logo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Logo.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusWalkFowardAP1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BrosiusWalkFowardAP1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusBPunchP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brosius-B-Punch-P2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERRORAFace P2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERRORAFace P2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Stage" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Stage.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusAFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BrosiusAFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERRORAFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERRORAFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Brosius-A-Punch-P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brosius-A-Punch-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR-B-Walk-P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-B-Walk-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Brosius-B-Punch-P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brosius-B-Punch-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR-B-Stand-P11" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-B-Stand-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusAFace P2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BrosiusAFace P2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR-A-Punch-P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-A-Punch-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusStandBP1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BrosiusStandBP1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusWalkBackwardAP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BrosiusWalkBackwardAP2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusAPunchP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brosius-A-Punch-P2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusBFace" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BrosiusBFace.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusStandAP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BrosiusStandAP2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR-A-Stand-P2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-A-Stand-P2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusBFace P2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BrosiusBFace P2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR-A-Walk-P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-A-Walk-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusStandBP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BrosiusStandBP2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusStandAP1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BrosiusStandAP1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusWalkFowardAP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BrosiusWalkFowardAP2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR-B-Stand-P2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-B-Stand-P2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR-B-Punch-P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-B-Punch-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="BrosiusBWalkP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brosius-B-Walk-P2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Brosius_A_Squat_P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brosius-A-Squat-P1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Brosius_A_Squat_P2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brosius-A-Squat-P2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Brosius_B_Squat_P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brosius-B-Squat-P1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Brosius_B_Squat_P2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brosius-B-Squat-P2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Brosius_B_WalkBackwards_P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Brosius-B-WalkBackwards-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERRORAPunchP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-A-Punch-P2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERRORAWalkP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-A-Walk-P2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERRORBPunchP2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-B-Punch-P2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR_A_Squat_P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-A-Squat-P1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR_A_Squat_P2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-A-Squat-P2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR_A_WalkBackwards_P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-A-WalkBackwards-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR_B_Squat_P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-B-Squat-P1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR_B_Squat_P2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-B-Squat-P2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR_B_WalkBackwards_P1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-B-WalkBackwards-P1.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ERROR_B_Walk_P2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ERROR-B-Walk-P2.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
